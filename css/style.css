@@ -1,0 +1,26 @@
+body {
+  font-family: "Noto Serif", serif;
+  font-size: 12px;
+  text-align: center;
+}
+
+.nav {
+  position: absolute;
+  right: 15%;
+  font-size: 11px;
+  text-transform: uppercase;
+}
+
+.nav ul {
+  display: flex;
+  list-style-type: none;
+  padding-top: 19px;
+}
+
+.nav a {
+  text-decoration: none;
+  padding: 10px;
+  color: antiquewhite;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFLQTtFQUNNLGdDQUpNO0VBS04sZUFBQTtFQUNBLGtCQUFBO0FDSk47O0FET0E7RUFDTSxrQkFBQTtFQUNBLFVBQUE7RUFDQSxlQUFBO0VBQ0EseUJBQUE7QUNKTjs7QURPQTtFQUNNLGFBQUE7RUFDQSxxQkFBQTtFQUNBLGlCQUFBO0FDSk47O0FETUU7RUFDSSxxQkFBQTtFQUNBLGFBQUE7RUFDQSxtQkFBQTtBQ0hOIiwiZmlsZSI6InN0eWxlLmNzcyJ9 */
