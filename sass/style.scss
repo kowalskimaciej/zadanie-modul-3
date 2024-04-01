@@ -9,6 +9,7 @@ body {
       text-align: center;
 }
 
+/*navigation*/
 
 .nav {
       position: absolute;
@@ -65,4 +66,24 @@ button {
       color:blanchedalmond;
       background-color: $color-style;
       border-style: none;
+}
+
+/*services*/
+
+.s-card {
+      padding: 20px;
+  }
+.s-card i {
+      color:rgb(13, 156, 175);
+      font-size: 40px;
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      border: 3px solid $color-style;
+      line-height: 60px;
+}
+  
+.s-card p {
+      max-width: 400px;
+      margin: auto;
 }
